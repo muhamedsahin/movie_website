@@ -11,9 +11,9 @@
   
   <img src="./readme-images/project-logo.png" />
 
-  <h2 align="center">Filmlane - Movie website</h2>
+  <h2 align="center">Filim ve Dizi sitesi html Tasarım</h2>
 
-  Filmlane is a fully responsive movie website page, <br />Responsive for all devices, built using HTML, CSS, and JavaScript.
+  FilimLane sitesi filim ve dizi göstermek için yapılmıştır <br />Bütün her şey html css javascript ile yapılmıştır
 
   <a href="https://codewithsadee.github.io/filmlane/"><strong>➥ Live Demo</strong></a>
 
@@ -49,8 +49,9 @@ git clone https://github.com/codewithsadee/filmlane.git
 
 ### Contact
 
-If you want to contact with me you can reach me at [Twitter](https://www.twitter.com/codewithsadee).
+If you want to contact with me you can reach me at [İnstagram](https://www.instagram.com/fatih16hack/).
 
 ### License
 
-This project is **free to use** and does not contains any license.
+This project editet from Overclock studio thats why the other persons can not be use this codes but the orginal project page the project codes free
+You can found the orginal project and free code from this link [Orginal_Project](https://github.com/codewithsadee/filmlane)
